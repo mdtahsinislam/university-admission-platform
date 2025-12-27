@@ -154,6 +154,7 @@ university-admission-platform/
 │
 ├── sql/
 │   └── seed.sql
+    └── schema.sql
 │
 ├── public/
 │   └── images/
