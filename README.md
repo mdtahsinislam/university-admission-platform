@@ -124,7 +124,7 @@ A modern full-stack web application that helps students discover, compare, and a
 ## 🗂 Project Folder Structure
 
 ```txt
-tripgraphy/
+university-admission-platform/
 ├── app/
 │   ├── api/
 │   │   ├── apply/
