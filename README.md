@@ -49,7 +49,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 # 🎓 University Admission Platform  
-**Full Stack Developer Assignment – Iniastra Tech**
+## **Full Stack Developer Assignment – Iniastra Tech**
 
 A modern full-stack web application that helps students discover, compare, and apply to universities based on eligibility criteria such as GPA, IELTS, and tuition fees.
 
